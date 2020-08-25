@@ -1,3 +1,53 @@
+<table class="infobox biography vcard">
+<tbody>
+<tr>
+<th colspan="2">
+<div class="fn">Abhay Vasant Ashtekar</div>
+</th>
+</tr>
+<tr>
+<th scope="row">Born</th>
+<td>5 July 1949<span class="noprint ForceAgeToShow">&nbsp;(age&nbsp;71)</span><br />
+<div class="birthplace"><a title="Kolhapur" href="https://en.wikipedia.org/wiki/Kolhapur">Kolhapur</a>,&nbsp;<a title="Maharashtra" href="https://en.wikipedia.org/wiki/Maharashtra">Maharashtra</a>,&nbsp;<a title="India" href="https://en.wikipedia.org/wiki/India">India</a></div>
+</td>
+</tr>
+<tr>
+<th scope="row">Nationality</th>
+<td class="category"><a title="India" href="https://en.wikipedia.org/wiki/India">Indian</a></td>
+</tr>
+<tr>
+<th scope="row">Alma&nbsp;mater</th>
+<td><a class="mw-redirect" title="University of Texas, Austin" href="https://en.wikipedia.org/wiki/University_of_Texas,_Austin">University of Texas, Austin</a>;&nbsp;<a title="University of Chicago" href="https://en.wikipedia.org/wiki/University_of_Chicago">University of Chicago</a></td>
+</tr>
+<tr>
+<th scope="row">Known&nbsp;for</th>
+<td><a title="Ashtekar variables" href="https://en.wikipedia.org/wiki/Ashtekar_variables">Ashtekar variables</a></td>
+</tr>
+<tr>
+<th scope="row">Awards</th>
+<td>Member of National Academy of Sciences, First&nbsp;<a class="new" title="Gravity Prize (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Gravity_Prize&amp;action=edit&amp;redlink=1">Gravity Prize</a>&nbsp;by the&nbsp;<a title="Gravity Research Foundation" href="https://en.wikipedia.org/wiki/Gravity_Research_Foundation">Gravity Research Foundation</a>,&nbsp;<a title="Massachusetts" href="https://en.wikipedia.org/wiki/Massachusetts">Massachusetts</a>, Einstein Prize</td>
+</tr>
+<tr>
+<td colspan="2"><strong>Scientific career</strong></td>
+</tr>
+<tr>
+<th scope="row">Fields</th>
+<td class="category"><a title="Theoretical physics" href="https://en.wikipedia.org/wiki/Theoretical_physics">Theoretical physics</a></td>
+</tr>
+<tr>
+<th scope="row">Institutions</th>
+<td><a title="Pennsylvania State University" href="https://en.wikipedia.org/wiki/Pennsylvania_State_University">Pennsylvania State University</a></td>
+</tr>
+<tr>
+<th scope="row"><a title="Doctoral advisor" href="https://en.wikipedia.org/wiki/Doctoral_advisor">Doctoral advisor</a></th>
+<td><a title="Robert Geroch" href="https://en.wikipedia.org/wiki/Robert_Geroch">Robert Ge</a></td>
+</tr>
+</tbody>
+</table>
+</br>
+<p><strong>Abhay Vasant Ashtekar</strong>&nbsp;(born 5 July 1949) is an Indian theoretical physicist. He is the Eberly Professor of Physics and the Director of the Institute for Gravitational Physics and Geometry at&nbsp;<a title="" href="https://en.wikipedia.org/wiki/Pennsylvania_State_University">Pennsylvania State University</a>. As the creator of&nbsp;<a title="Ashtekar variables" href="https://en.wikipedia.org/wiki/Ashtekar_variables">Ashtekar variables</a>, he is one of the founders of&nbsp;<a title="Loop quantum gravity" href="https://en.wikipedia.org/wiki/Loop_quantum_gravity">loop quantum gravity</a>&nbsp;and its subfield&nbsp;<a title="Loop quantum cosmology" href="https://en.wikipedia.org/wiki/Loop_quantum_cosmology">loop quantum cosmology</a>.&nbsp;He has also written a number of descriptions of loop quantum gravity that are accessible to non-physicists. In 1999, Ashtekar and his colleagues were able to calculate the&nbsp;<a title="Entropy" href="https://en.wikipedia.org/wiki/Entropy">entropy</a>&nbsp;for a&nbsp;<a title="Black hole" href="https://en.wikipedia.org/wiki/Black_hole">black hole</a>, matching a legendary 1974 prediction by&nbsp;<a title="Stephen Hawking" href="https://en.wikipedia.org/wiki/Stephen_Hawking">Hawking</a>.&nbsp;Oxford mathematical physicist&nbsp;<a title="Roger Penrose" href="https://en.wikipedia.org/wiki/Roger_Penrose">Roger Penrose</a>&nbsp;has described Ashtekar's approach to&nbsp;<a title="Quantum gravity" href="https://en.wikipedia.org/wiki/Quantum_gravity">quantum gravity</a>&nbsp;as "The most important of all the attempts at 'quantizing' general relativity."&nbsp;Ashtekar was elected as Member to National Academy of Sciences in May 2016.</p>
+
+</br>
 <h2> Publications</h2>
 
 <ul>
