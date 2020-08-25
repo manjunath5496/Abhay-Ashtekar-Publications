@@ -88,7 +88,7 @@ From pre-inflationary dynamics to observations</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(49).pdf" style="text-decoration:none;">100 Years of General Relativity </a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(50).pdf" style="text-decoration:none;">Generalized eective description of loop quantum cosmology</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(50).pdf" style="text-decoration:none;">Generalized effective description of loop quantum cosmology</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(51).pdf" style="text-decoration:none;">Gravitational waves from isolated systems: Surprising consequences of a positive cosmological constant</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(52).pdf" style="text-decoration:none;">Asymptotics with a positive cosmological constant: III. The quadrupole formula</a></li>
 
@@ -144,4 +144,64 @@ A Perspective from Loop Quantum Gravity</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(75).pdf" style="text-decoration:none;">Polymer and Fock representations for a Scalar field</a></li>                        
 <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(76).pdf" style="text-decoration:none;">Mathematical structure of
 loop quantum cosmology</a></li>
+
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(77).pdf" style="text-decoration:none;">Non-minimally coupled scalar fields and isolated horizons</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(78).pdf" style="text-decoration:none;">Non-minimal couplings, quantum geometry and black hole entropy</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(79).pdf" style="text-decoration:none;">How Black Holes Grow</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(80).pdf" style="text-decoration:none;">Dynamical Horizons and their properties</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(81).pdf" style="text-decoration:none;">Multipole Moments of Isolated Horizons </a></li> 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(82).pdf" style="text-decoration:none;">BEYOND SPACE AND TIME</a></li> 
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(83).pdf" style="text-decoration:none;">The Duel: Strings versus Loops</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(84).pdf" style="text-decoration:none;">Background Independent Quantum Gravity: A Status Report</a></li> 
+ 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(85).pdf" style="text-decoration:none;">Isolated and Dynamical Horizons and Their Applications</a></li>                              
+
+  <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(86).pdf" style="text-decoration:none;">The Inverted Big-Bang</a></li> 
+  
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(87).pdf" style="text-decoration:none;">Time before Time: Classifications of universes in contemporary cosmology, and how to avoid the antinomy of the beginning and eternity of the world</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(88).pdf" style="text-decoration:none;">MATTERS OF GRAVITY</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(89).pdf" style="text-decoration:none;">Gravity and the Quantum</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(90).pdf" style="text-decoration:none;">Quantum horizons and black hole entropy: Inclusion of distortion and rotation</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(91).pdf" style="text-decoration:none;">Some Uniqueness Results for Dynamical Horizons</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(92).pdf" style="text-decoration:none;">Black hole evaporation: A paradigm</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(93).pdf" style="text-decoration:none;">Semiclassical States for Constrained Systems</a></li>
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(94).pdf" style="text-decoration:none;">WAS EINSTEIN RIGHT? TESTING RELATIVITY AT THE CENTENARY</a></li> 
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(95).pdf" style="text-decoration:none;">Causal sets and the deep structure of spacetime</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(96).pdf" style="text-decoration:none;">Quantum geometry and the Schwarzschild singularity</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(97).pdf" style="text-decoration:none;">Quantum Nature of the Big Bang</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(98).pdf" style="text-decoration:none;">Quantum Nature of the Big Bang:
+An Analytical and Numerical Investigation</a></li>
+
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(99).pdf" style="text-decoration:none;">Gravity, Geometry and the Quantum</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(100).pdf" style="text-decoration:none;">The Issue of the Beginning in Quantum Gravity</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(101).pdf" style="text-decoration:none;">Quantum Nature of the Big Bang: Improved dynamics</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(102).pdf" style="text-decoration:none;">Mechanics of higher-dimensional black holes in asymptotically anti-de Sitter space-times</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(103).pdf" style="text-decoration:none;">Loop quantum cosmology of k=1 FRW models</a></li>                        
+<li><a target="_blank" href="https://github.com/manjunath5496/Abhay-Ashtekar-Publications/blob/master/aba(104).pdf" style="text-decoration:none;">An Introduction to Loop Quantum Gravity through Cosmology</a></li>
+
+
+
+
+
+
 </ul>
